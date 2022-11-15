@@ -1,6 +1,6 @@
 # D-room
 
-Aplikasi yang akan membantu user untuk menemukan hotel untuk berlibur
+Aplikasi yang akan membantu user untuk menemukan hotel untuk berlibur. User bisa mendapatkan informasi detail mengenai setiap akomodasi dan juga melakukan booking kamar di lokasi berlibur.
 
 <img width="944" alt="image" src="https://user-images.githubusercontent.com/93959261/201832278-73ebb4e3-b620-459f-a25b-4a86d6be052f.png">
 <img width="939" alt="image" src="https://user-images.githubusercontent.com/93959261/201832700-682abb8d-c05a-488c-9de9-187007bb90de.png">
@@ -9,3 +9,19 @@ Aplikasi yang akan membantu user untuk menemukan hotel untuk berlibur
 
 
 # Feature
+1. [x] Show Accomodation
+2. [x] Booking Room
+3. [x] Payment with Midtrans
+4. [x] Filter Accommodation
+5. [x] Pagination
+
+#Tech Stack
+
+1. PostgreSQL
+2. Sequelize
+3. Json Web Token
+4. Bcrypt
+5. Express.js
+6. Node.js
+7. Vue.js
+8. Pinia
